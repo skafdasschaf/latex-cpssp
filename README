@@ -1,0 +1,19 @@
+The cpssp package
+------------------------------------------------------------------------------
+This package is released under the LaTeX Project Public License v1.3c or later
+(see http://www.latex-project.org/lppl.txt).
+
+
+The cpssp package allows you to draw a two-dimensional representation of
+a protein’s secondary structure in LaTeX. Besides, it is possible to
+graphically compare protein secondary structure predictions. One can both
+compare predictions from a single program for several protein sequences
+(which have been aligned using any appropriate algorithm) and predictions
+from several programs for a single protein sequence.
+
+
+Installation: Run cpssp.ins through LaTeX and follow the instructions.
+
+--
+Wolfgang Skala
+June 6th, 2009
